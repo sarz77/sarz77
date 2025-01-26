@@ -20,4 +20,4 @@
 [<img align="left" alt="SurenArznayn | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 
 [telegram]: https://t.me/arzanyan23
-[linkedin]: www.linkedin.com/in/suren777
+[linkedin]: https://www.linkedin.com/in/suren777
