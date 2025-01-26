@@ -1,6 +1,8 @@
 <h1>Hi, I'm Suren! </h1>
 
 <h2>👨‍💻 My QA Engineer Projects:</h2>
+- <b>"Azatazen website"</b>
+  - [UI Automation Testing](https://github.com/sarz77/azatazen/blob/main/README.md)
 
 - <b>Volnatorg Web-Store</b>
   - [Email & Form sending automation](https://github.com/sarz77/volnatorg/blob/main/README.md)
