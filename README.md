@@ -5,10 +5,10 @@
 - <b>"Azatazen website"</b>
   - [UI Automation Testing](https://github.com/sarz77/azatazen/blob/main/README.md)
 
-- <b>Volnatorg Web-Store</b>
+- <b>"Volnatorg Web-Store"</b>
   - [Email & Form sending automation](https://github.com/sarz77/volnatorg/blob/main/README.md)
 
-- <b>WEB 3 Web-Application Automation Test Task</b>
+- <b>"WEB 3 Web-Application Automation Test Task"</b>
   - [Adding New Tests to the project](https://github.com/sarz77/dapp-test-automation-playwright-synpress/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
