@@ -3,7 +3,7 @@
 <h2>👨‍💻 My QA Engineer Projects:</h2>
 
 - <b>Volnatorg</b>
-  - [Email & Form sending automation](https://github.com)
+  - [Email & Form sending automation](https://github.com/sarz77/volnatorg/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
