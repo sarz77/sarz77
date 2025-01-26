@@ -5,6 +5,9 @@
 - <b>Volnatorg Web-Store</b>
   - [Email & Form sending automation](https://github.com/sarz77/volnatorg/blob/main/README.md)
 
+- <b>WEB 3 Web-Application Automation Test Task</b>
+  - [Adding New Tests to the project](https://github.com/sarz77/dapp-test-automation-playwright-synpress/blob/main/README.md)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SurenArzanyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
