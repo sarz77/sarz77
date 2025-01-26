@@ -1,7 +1,7 @@
 <h1>Hi, I'm Suren! </h1>
 <h2>🌟 About Me:</h2>
 
-<p> I’m a passionate QA professional with experience in mobile and web testing, automation development</p>
+<p> I’m a passionate QA professional with experience in mobile/web testing and automation development</p>
 
 <h2>👨‍💻 My Automation Projects:</h2>
 
