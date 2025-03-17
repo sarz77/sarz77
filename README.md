@@ -15,7 +15,7 @@
   - [Adding New Tests to the project](https://github.com/sarz77/dapp-test-automation-playwright-synpress/blob/main/README.md)
  
 - <b>"Lightspeed Test Task (ECWID API)"</b>
-  - [Adding API integration with JS](https://github.com/sarz77/LightspeedTestTask/README.md)
+  - [Adding API integration with JS](https://github.com/sarz77/LightspeedTestTask/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
